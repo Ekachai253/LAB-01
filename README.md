@@ -61,8 +61,8 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ## ผลการรันโปรเเกรมของการทดลอง LAB1
 ![](https://github.com/Ekachai253/LAB-01/blob/ca100779229ad96ceafe594d70c5c00d98ea154d/imgs/%E0%B8%A3%E0%B8%B1%E0%B8%99.jpg)
 ## คำถามท้ายการทดลอง ตอบ
-1.ไม่พบปัญหาใดๆในการคอมไพล์โปรแกรม 
-2.จากการลองเเก้ไข MB_OK เป็นค่า MB_ICONERROR พบว่า รูปสัญลักษณ์ จะเป็นรูปICON ขึ้นว่า ERROR จะเห็นได้ว่า ถ้ามีการเเก้ไข MB_ต่างๆ รูปศัญลักษณ์ ICONจะมี   การเปลี่ยนเเปลง
+1. ไม่พบปัญหาใดๆในการคอมไพล์โปรแกรม 
+2. จากการลองเเก้ไข MB_OK เป็นค่า MB_ICONERROR พบว่า รูปสัญลักษณ์ จะเป็นรูปICON ขึ้นว่า ERROR จะเห็นได้ว่า ถ้ามีการเเก้ไข MB_ต่างๆ รูปศัญลักษณ์ ICONจะมี   การเปลี่ยนเเปลง
 ## ผลการรัน ในการเเก้ไข MB_OK
 ![](https://github.com/Ekachai253/LAB-01/blob/ca100779229ad96ceafe594d70c5c00d98ea154d/imgs/4.jpg)
 ![](https://github.com/Ekachai253/LAB-01/blob/ca100779229ad96ceafe594d70c5c00d98ea154d/imgs/3.jpg)
